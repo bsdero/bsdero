@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bsdero
-- 👀 I’m interested in Unix, BSD, Linux, Operating Systems, File system, AI
+- 👀 I’m interested in Unix, BSD, Linux, Operating Systems, Kernel development, File systems, AI
 - 🌱 I’m currently learning AI and Pytorch
-- 💞️ I’m looking to collaborate on HPC clusterings
+- 💞️ Love to program in C, Shell, Python.
 - 📫 How to reach me: bsdero@gmail.com
 
 <!---
